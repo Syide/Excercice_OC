@@ -1,0 +1,22 @@
+#include <iostream>
+#include <string>
+
+
+using namespace std;
+
+int main()
+
+
+string OC (0)
+
+
+
+
+
+	cout << "Le meilleur site de E-éducation " << endl;
+
+	cin >> OC;
+
+	cout << "Le nom du site est: " << OC << endl;
+	
+	cin.ignore();
