@@ -1,2 +1,0 @@
-# Excercice_OC
-OpenClassrooms
